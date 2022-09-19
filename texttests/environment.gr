@@ -1,0 +1,6 @@
+# If your .class files are somewhere else, add the path to the list
+CLASSPATH:C:/GildedRose-Refactoring-Kata/GildedRose-Refactoring-Kata-main/Java/build/classes/java/test;C:/GildedRose-Refactoring-Kata/GildedRose-Refactoring-Kata-main/Java/build/classes/java/main;C:/GildedRose-Refactoring-Kata/GildedRose-Refactoring-Kata-main/Java/target/classes;C:/GildedRose-Refactoring-Kata/GildedRose-Refactoring-Kata-main/Java/target/test-classes
+PERL5OPT:-IC:/GildedRose-Refactoring-Kata/GildedRose-Refactoring-Kata-main/perl
+
+
+
